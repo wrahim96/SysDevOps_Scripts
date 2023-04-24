@@ -1,5 +1,3 @@
-# SysDevOps_Scripts
-This repository is for all of my SysDevOps scripts that I have either worked on or used throughout my career within the field.
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
@@ -86,7 +84,8 @@ This repository is for all of my SysDevOps scripts that I have either worked on 
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
-
+# SysDevOps_Scripts
+This repository is for all of my SysDevOps scripts that I have either worked on or used throughout my career within the field.
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -156,10 +155,10 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [ ] Add More Scripts
+- [ ] Create Readme for each script
+- [ ] Update scripts, if possible
+    - [ ] Organize scripts into proper categories
 
 See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
@@ -208,9 +207,9 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* [Ahmad Walid Abdul Rahim]()
+* [Ahmad Wahid Abdul Rahim]()
+* [Farukh Abdulrahim]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -229,7 +228,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
 [license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://www.linkedin.com/in/walidabdulr/
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
