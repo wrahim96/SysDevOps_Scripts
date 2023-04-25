@@ -207,8 +207,8 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [Ahmad Walid Abdul Rahim]()
-* [Ahmad Wahid Abdul Rahim]()
+* [Walid Abdulrahim()
+* [Ahmad Rahim]()
 * [Farukh Abdulrahim]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
